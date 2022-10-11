@@ -3,7 +3,7 @@
 
 
 - 📫 How to reach us **sithukaungset27@gmail.com** **sithukaungset@dongguk.ac.kr**
-
+- 👨‍💻 Developers ** SITHU KAUNG SET, JHI KYU INN, LEE JAE SEOK
 ### Healer Project:rocket:
 
 Healer (Blockchain based Intelligent healthcare service)
