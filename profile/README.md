@@ -1,15 +1,8 @@
 <h1 align="center">Hello<img src="https://github.com/sithukaungset/sithukaungset/blob/main/space.gif" width="80px"> Welcome from Healer</h1>
 <h3 align="center">Health is Wealth</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sithukaungset&label=Profile%20views&color=0e75b6&style=flat" alt="chandrikadeb7" /> </p>
 
-- 👽 All about me is at [My Website](https://sithukaungset.github.io/)
-
-- 🖥 Blockchain, Machine Learning, Networking, Security
-
-- 👾 Software Engineer (Master Degree in Computer Engineering)
-
-- 📫 How to reach me **sithukaungset27@gmail.com** **sithukaungset@dongguk.ac.kr**
+- 📫 How to reach us **sithukaungset27@gmail.com** **sithukaungset@dongguk.ac.kr**
 
 ### Featured Projects:rocket:
 
