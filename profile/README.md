@@ -1,9 +1,13 @@
-<h1 align="center">Hello<img height="180px" src="https://github.com/Health-Bridge-INLab/.github/blob/main/profile/healthcare-animation.gif" width="180px"> Welcome from Healer</h1>
+<h1 align="center"><img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="50px"> Welcome from Healer</h1>
 <h1 align="center">Web 3.0 Medical AI Service</h1>
 <h3 align="center">Health is Wealth</h3>
+<img height=50% src="https://github.com/Health-Bridge-INLab/.github/blob/main/profile/healthcare-animation.gif" width=50%>
+
+
+- 👨‍💻 Developers ** SITHU KAUNG SET, JHI KYU INN, LEE JAE SEOK **
 
 - 📫 How to reach us **sithukaungset27@gmail.com** **sithukaungset@dongguk.ac.kr**
-- 👨‍💻 Developers ** SITHU KAUNG SET, JHI KYU INN, LEE JAE SEOK **
+
 ### Healer Project:rocket:
 
 Healer (Blockchain based Intelligent healthcare service)
