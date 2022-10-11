@@ -1,5 +1,5 @@
-<h1 align="center">Hi <img src="https://github.com/sithukaungset/sithukaungset/blob/main/space.gif" width="80px"> I'm SITHU KAUNG SET</h1>
-<h3 align="center">Stay Hungry, Stay Foolish</h3>
+<h1 align="center">Hello<img src="https://github.com/sithukaungset/sithukaungset/blob/main/space.gif" width="80px"> Welcome from Healer</h1>
+<h3 align="center">Health is Wealth</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sithukaungset&label=Profile%20views&color=0e75b6&style=flat" alt="chandrikadeb7" /> </p>
 
