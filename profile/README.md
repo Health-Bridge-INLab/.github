@@ -1,10 +1,13 @@
 <h1 align="center"><img src="https://github.com/Health-Bridge-INLab/.github/blob/main/profile/Hi.gif" width="50px"> Welcome from Healer</h1>
 <h1 align="center">Web 3.0 Medical AI Service</h1>
 <h3 align="center">Health is Wealth</h3>
-<img height=50% src="https://github.com/Health-Bridge-INLab/.github/blob/main/profile/smarthealth.gif" width=50%>
+<img align="right" src="https://github.com/Health-Bridge-INLab/.github/blob/main/profile/smarthealth.gif"  height=400>
 
 
-- 👨‍💻 Developers ** SITHU KAUNG SET, JHI KYU INN, LEE JAE SEOK **
+### Developers :computer:
+- [SITHU KAUNG SET](https://github.com/sithukaungset) 👽
+- [JHI KYU INN](https://github.com/jhikyuinn) 👩‍💻
+- [LEE JAE SEOK](https://github.com/iamwotjr99) 👨‍💻
 
 - 📫 How to reach us **sithukaungset27@gmail.com** **sithukaungset@dongguk.ac.kr**
 
