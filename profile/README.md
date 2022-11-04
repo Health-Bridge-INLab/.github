@@ -8,6 +8,7 @@
 - [SITHU KAUNG SET](https://github.com/sithukaungset) 👽
 - [JHI KYU INN](https://github.com/jhikyuinn) 👩‍💻
 - [LEE JAE SEOK](https://github.com/iamwotjr99) 👨‍💻
+- [PARK JAE SEOK](https://github.com/MachineHand) 🦾
 
 - 📫 How to reach us **sithukaungset27@gmail.com** **sithukaungset@dongguk.ac.kr**
 
