@@ -4,7 +4,7 @@
 
 <img align="right"  alt="" src="https://github.com/sithukaungset/sithukaungset/blob/main/earthspinning.gif" height=250/>
 
-#### Developers :computer:
+## Developers :computer:
 - [SITHU KAUNG SET](https://github.com/sithukaungset) 👽
 - [JHI KYU INN](https://github.com/jhikyuinn) 👩‍💻
 - [LEE JAE SEOK](https://github.com/iamwotjr99) 👨‍💻
