@@ -2,6 +2,8 @@
 <h1 align="center">Web 3.0 Medical AI Service</h1>
 <h3 align="center">Health is Wealth</h3>
 
+<img align="right"  alt="" src="https://github.com/sithukaungset/sithukaungset/blob/main/earthspinning.gif" height=250/>
+
 #### Developers :computer:
 - [SITHU KAUNG SET](https://github.com/sithukaungset) 👽
 - [JHI KYU INN](https://github.com/jhikyuinn) 👩‍💻
