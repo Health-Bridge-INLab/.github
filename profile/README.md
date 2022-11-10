@@ -1,7 +1,7 @@
 <h1 align="center"><img src="https://github.com/Health-Bridge-INLab/.github/blob/main/profile/Hi.gif" width="50px"> Welcome from Healer</h1>
 <h1 align="center">Web 3.0 Medical AI Service</h1>
 <h3 align="center">Health is Wealth</h3>
-<img align="right" src="https://github.com/Health-Bridge-INLab/.github/blob/main/profile/smarthealth.gif"  height=400 width="50%">
+<img align="right" src="https://www.aodhhealth.com/static/media/command-center.2a06f4adb5ba7bff6cab.gif"  height=400 width="80%">
 
 
 ### Developers :computer:
