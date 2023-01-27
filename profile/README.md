@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://github.com/Health-Bridge-INLab/.github/blob/main/profile/Hi.gif" width="50px"> Welcome from Healer</h1>
+<h1 align="center"><img src="https://github.com/Health-Bridge-INLab/.github/blob/main/profile/Hi.gif" width="50px"> Welcome from HealthBit</h1>
 <h1 align="center">Web 3.0 Medical AI Service</h1>
 <h3 align="center">Health is Wealth</h3>
 
