@@ -5,10 +5,10 @@
 <img align="right"  alt="" src="https://github.com/sithukaungset/sithukaungset/blob/main/earthspinning.gif" height=250/>
 
 ## Developers :computer:
-- [SITHU KAUNG SET](https://github.com/sithukaungset) [👽](https://sithukaungset.github.io/3Dportfolio/)
-- [JHI KYU INN](https://github.com/jhikyuinn) 👩‍💻
-- [LEE JAE SEOK](https://github.com/iamwotjr99) 👨‍💻
-- [PARK JAE SEOK](https://github.com/MachineHand) 🦾
+- [SITHU KAUNG SET] Lead Developer(https://github.com/sithukaungset) [👽](https://sithukaungset.github.io/3Dportfolio/)
+- [JHI KYU INN] Frontend (https://github.com/jhikyuinn) 👩‍💻
+- [LEE JAE SEOK] Frontend(https://github.com/iamwotjr99) 👨‍💻
+- [PARK JAE SEOK] Frontend (https://github.com/MachineHand) 🦾
 
 ### Healer Project:rocket:
 
