@@ -10,9 +10,9 @@
 - [LEE JAE SEOK](https://github.com/iamwotjr99) Frontend
 - [PARK JAE SEOK](https://github.com/MachineHand) Frontend
 
-### Healer Project:rocket:
+### Healthbit Project:rocket:
 
-Healer is Blockchain based Intelligent healthcare service platform developed by INLab, Dongguk University, South Korea
+Healthbit is Blockchain based Intelligent healthcare service platform.
 
 - 📫 How to reach us **sithukaungset27@gmail.com** **sithukaungset@dongguk.ac.kr**
 
